@@ -1,0 +1,26 @@
+ <style>
+            body {
+                font-family: Arial, sans-serif;
+                padding: 20px;
+            }
+    
+            .item {
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                margin-bottom: 40px;
+                gap: 20px;
+            }
+    
+            .item p {
+                max-width: 600px;
+                font-size: 18px;
+                line-height: 1.6;
+            }
+    
+            .item img {
+                width: 250px;
+                height: auto;
+                border-radius: 10px;
+            }
+        </style>
